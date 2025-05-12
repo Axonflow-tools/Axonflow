@@ -1,9 +1,9 @@
 [submodule "UI"]
-	path = UI
-	url = git@github.com:Axonflow-tools/UI.git
+    path = UI
+    url = https://github.com/Axonflow-tools/UI.git
 [submodule "Worker"]
-	path = Worker
-	url = git@github.com:Axonflow-tools/Worker.git
+    path = Worker
+    url = https://github.com/Axonflow-tools/Worker.git
 [submodule "Backend"]
-	path = Backend
-	url = git@github.com:Axonflow-tools/Backend.git
+    path = Backend
+    url = https://github.com/Axonflow-tools/Backend.git
