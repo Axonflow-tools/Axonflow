@@ -1,6 +1,3 @@
-[submodule "UI"]
-    path = UI
-    url = https://github.com/Axonflow-tools/UI.git
 [submodule "Worker"]
     path = Worker
     url = https://github.com/Axonflow-tools/Worker.git
